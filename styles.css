@@ -1,0 +1,26 @@
+a {
+    margin: 2px;
+    padding: 5px;
+    font-size: 1.5rem;
+    color: blue;
+}
+
+a:active {
+    color: red;
+}
+
+.recipe-list {
+    display: flex;
+    flex-direction: column;
+}
+
+#steps-container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.steps {
+    padding: 5px;
+    margin: 2px;
+}
