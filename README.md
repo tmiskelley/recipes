@@ -1,2 +1,2 @@
 # recipes
-In this repository, I have created a website for displaying various recipes, utilizing HTML5 for the formatting.
+This repository is a basic webpage for displaying various cooking recipes, utilizing HTML5 for the formatting.
